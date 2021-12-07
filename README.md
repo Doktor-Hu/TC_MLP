@@ -29,7 +29,7 @@ MODIS/Terra Surface Reflectance Daily L2G Global 1 km and 500 m SIN Grid product
 
 
 
-## 4. Python Packages
+## 4. Model Execution
 ```python
 a
 

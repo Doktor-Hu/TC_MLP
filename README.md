@@ -17,6 +17,7 @@ This repository includes the code for building the MLP model, as well as its imp
 - We provide an example at AWS 14, demonstrating the MLP implementation 
 
   (1) with albedo from AWS/MODIS
+  
   (2) with meterorogical parameters provided by AWS/RACMO2
 
 

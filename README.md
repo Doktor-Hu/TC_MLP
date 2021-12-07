@@ -18,7 +18,7 @@ Current version: 1.0 (7 December 2021)
 
 
 
-![image-20211207120720707](C:\Users\zh_hu\AppData\Roaming\Typora\typora-user-images\image-20211207120720707.png)
+![image-20211207120720707](https://github.com/[username]/[reponame]/blob/[branch]/image-20211207120720707.png)
 
 
 

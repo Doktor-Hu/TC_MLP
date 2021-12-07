@@ -12,7 +12,11 @@ Current version: 1.0 (7 December 2021)
 
 This repository includes the code for building the MLP model, as well as its implementation.
 
-Please find the code in the provided Jupyter Notebook.
+- The provided Jupyter Notebook can be used for training the MLP model.
+
+- We provide an example at AWS 14, demonstrating the MLP implementation 
+  with albedo from AWS/MODIS
+  with meterorogical parameters provided by AWS/RACMO2
 
 
 

@@ -15,8 +15,9 @@ This repository includes the code for building the MLP model, as well as its imp
 - The provided Jupyter Notebook can be used for training the MLP model.
 
 - We provide an example at AWS 14, demonstrating the MLP implementation 
-  with albedo from AWS/MODIS
-  with meterorogical parameters provided by AWS/RACMO2
+
+  (1) with albedo from AWS/MODIS
+  (2) with meterorogical parameters provided by AWS/RACMO2
 
 
 

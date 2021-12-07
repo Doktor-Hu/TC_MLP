@@ -37,6 +37,6 @@ a
 
 
 
-Related Publication:
+## Related Publication:
 
 Hu, Z., Kuipers Munneke, P., Lhermitte, S., Izeboud, M., and van den Broeke, M.: Improving Surface Melt Estimation over Antarctica Using Deep Learning: A Proof-of-Concept over the Larsen Ice Shelf, The Cryosphere Discuss. [preprint], https://doi.org/10.5194/tc-2021-102, in review, 2021.
